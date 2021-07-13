@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "name": "Aladdin",
+    "description": "A kind-hearted street urchin Aladdin vies for the love of the beautiful princess Jasmine, the princess of Agrabah. When he finds a magic lamp, he uses the genie's magic power to make himself a prince in order to marry her. He's also on a mission to stop the powerful Jafar who plots to steal the magic lamp that could make his deepest wishes come true.",
+    "year": 2019,
+    "cover": "https://image.tmdb.org/t/p/original//ykUEbfpkf8d0w49pHh0AD2KrT52.jpg"
+  },
+    {
+    "id": 1,
+    "name": "Pulp Fiction",
+    "description": "Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are two hit men who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his wife Mia (Uma Thurman) out a few days later when Wallace himself will be out of town. Butch Coolidge (Bruce Willis) is an aging boxer who is paid by Wallace to lose his fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.",
+    "year": 1994,
+    "cover": "https://image.tmdb.org/t/p/original//dRZpdpKLgN9nk57zggJCs1TjJb4.jpg"
+  },
+    {
+    "id": 2,
+    "name": "Fight Club",
+    "description": "A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter), another fake attendee of support groups, his life seems to become a little more bearable. However when he associates himself with Tyler (Brad Pitt) he is dragged into an underground fight club and soap making scheme. Together the two men spiral out of control and engage in competitive rivalry for love and power. When the narrator is exposed to the hidden agenda of Tyler's fight club, he must accept the awful truth that Tyler may not be who he says he is.",
+    "year": 1999,
+    "cover": "https://image.tmdb.org/t/p/original//9dlcOgehxDK4QaC2QDfqwQFbk5C.jpg"
+  },
+    {
+    "id": 3,
+    "name": "The Truman Show",
+    "description": "Since birth, a big fat lie defines the well-organised but humdrum life of the kind-hearted insurance salesman and ambitious explorer, Truman Burbank. Utterly unaware of the thousands of cleverly hidden cameras watching his every move, for nearly three decades, Truman's entire existence pivots around the will and the wild imagination of the ruthlessly manipulative television producer, Christof--the all-powerful TV-God of an extreme 24/7 reality show: The Truman Show. As a result, Truman's picturesque neighbourhood with the manicured lawns and the uncannily perfect residents is nothing but an elaborate state-of-the-art set, and the only truth he knows is what the worldwide television network and its deep financial interests dictate. Do lab rats know they are forever imprisoned?",
+    "year": 1998,
+    "cover": "https://image.tmdb.org/t/p/original//jW8w2QZnCSRblYWPc5FKAkS1cal.jpg"
+  },
+    {
+    "id": 4,
+    "name": "The Green Mile",
+    "description": "Death Row guards at a penitentiary, in the 1930's, have a moral dilemma with their job when they discover one of their prisoners, a convicted murderer, has a special gift.",
+    "year": 1999,
+    "cover": "https://image.tmdb.org/t/p/original//velWPhVMQeQKcxggNEU8YmIo52R.jpg"
+  },
+    {
+    "id": 5,
+    "name": "Avengers: Endgame",
+    "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face...",
+    "year": 2019,
+    "cover": "https://image.tmdb.org/t/p/original//tqXiOD5rTyHgabO73Tpw9JDbd88.jpg"
+  },
+    {
+    "id": 6,
+    "name": "Kill Bill: Vol. 1",
+    "description": "The lead character, called 'The Bride,' was a member of the Deadly Viper Assassination Squad, led by her lover 'Bill.' Upon realizing she was pregnant with Bill's child, 'The Bride' decided to escape her life as a killer. She fled to Texas, met a young man, who, on the day of their wedding rehearsal was gunned down by an angry and jealous Bill (with the assistance of the Deadly Viper Assassination Squad). Four years later, 'The Bride' wakes from a coma, and discovers her baby is gone. She, then, decides to seek revenge upon the five people who destroyed her life and killed her baby. The saga of Kill Bill Volume I begins.",
+    "year": 2003,
+    "cover": "https://image.tmdb.org/t/p/original//v7TaX8kXMXs5yFFGR41guUDNcnB.jpg"
+  },
+    {
+    "id": 7,
+    "name": "Inglourious Basterds",
+    "description": "In German-occupied France, young Jewish refugee Shosanna Dreyfus witnesses the slaughter of her family by Colonel Hans Landa. Narrowly escaping with her life, she plots her revenge several years later when German war hero Fredrick Zoller takes a rapid interest in her and arranges an illustrious movie premiere at the theater she now runs. With the promise of every major Nazi officer in attendance, the event catches the attention of the 'Basterds', a group of Jewish-American guerrilla soldiers led by the ruthless Lt. Aldo Raine. As the relentless executioners advance and the conspiring young girl's plans are set in motion, their paths will cross for a fateful evening that will shake the very annals of history.",
+    "year": 2009,
+    "cover": "https://image.tmdb.org/t/p/original//eunqs8kybaElqu2U0XzU3ARCR2r.jpg"
+  },
+    {
+    "id": 8,
+    "name": "Sin City",
+    "description": "Four tales of crime adapted from Frank Miller's popular comics, focusing around a muscular brute who's looking for the person responsible for the death of his beloved Goldie (Jaime King), a man fed up with Sin City's corrupt law enforcement who takes the law into his own hands after a horrible mistake, a cop who risks his life to protect a girl from a deformed pedophile and a hitman looking to make a little cash.",
+    "year": 2005,
+    "cover": "https://image.tmdb.org/t/p/original//lLLO6FOidztrSMh5rF5wTuEqTBG.jpg"
+  },
+    {
+    "id": 9,
+    "name": "Toy Story",
+    "description": "A little boy named Andy loves to be in his room, playing with his toys, especially his doll named 'Woody'. But, what do the toys do when Andy is not with them, they come to life. Woody believes that his life (as a toy) is good. However, he must worry about Andy's family moving, and what Woody does not know is about Andy's birthday party. Woody does not realize that Andy's mother gave him an action figure known as Buzz Lightyear, who does not believe that he is a toy, and quickly becomes Andy's new favorite toy. Woody, who is now consumed with jealousy, tries to get rid of Buzz. Then, both Woody and Buzz are now lost. They must find a way to get back to Andy before he moves without them, but they will have to pass through a ruthless toy killer, Sid Phillips.",
+    "year": 1995,
+    "cover": "https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1502/0Go6TLhhHQDsbCiqw7qHK8PRHGUmhPJiAX5awZD3.webp"
+  }
+]
